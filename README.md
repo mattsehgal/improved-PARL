@@ -1,11 +1,12 @@
 # Improved PARL
 
-This final project is an improvement on the algorithm of [PARL](https://www.github.com/WHUIR/PARL). Refer [here](https://www.github.com/mattsehgal/improved-PARL/blob/main/Images/modified_algo.PNG) for the algorithm modifictation and refer [here](https://www.github.com/mattsehgal/improved-PARL/blob/main/Images/parl_ep0-15.PNG) for our results comparison (both of these images are located in the Images folder).
+This final project is an improvement on the algorithm of [PARL](https://github.com/WHUIR/PARL). Refer [here](https://github.com/mattsehgal/improved-PARL/blob/main/Images/modified_algo.PNG) for the algorithm modifictation and refer [here](https://github.com/mattsehgal/improved-PARL/blob/main/Images/parl_ep0-15.PNG) for our results comparison (both of these images are located [here](https://github.com/mattsehgal/improved-PARL/blob/main/Images)).
 
 **Statement of Work:**
 <br>
-I, *Matt Sehgal*, am responsible for the modified algorithm and its implementation. *[August Soderberg]*(https://www.github.com/augustsoderberg) is responsible for deriving the original PARL into a functioning version, incorporating the modified algorithm implementation into the PARL system, and performing all tests.
+I, [Matt Sehgal](https://github.com/mattsehgal), am responsible for the modified algorithm and its implementation. [August Soderberg](https://github.com/augustsoderberg) is responsible for deriving the original PARL into a functioning version, writing the data pre-processing, and performing all tests.
 <br><br><br>
+***
 The README below is from the original project submission:
 
 ## COSI 150 Final Project
