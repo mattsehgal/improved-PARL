@@ -1,15 +1,16 @@
 # Improved PARL
 
 This final project is an improvement on the algorithm of [PARL](https://github.com/WHUIR/PARL). Refer [here](https://github.com/mattsehgal/improved-PARL/blob/main/Images/modified_algo.PNG) for the algorithm modifictation and refer [here](https://github.com/mattsehgal/improved-PARL/blob/main/Images/parl_ep0-15.PNG) for our results comparison (both of these images are located [here](https://github.com/mattsehgal/improved-PARL/blob/main/Images)).
+All modifications to the original PARL can be found in [data_processing.py](https://github.com/mattsehgal/improved-PARL/blob/main/data_processing.py). Though we our code could be cleaner and more streamlined, we are thoroughly satisfied with our success of surpassing a very successful algorithm within a short time frame.
 
 **Statement of Work:**
 <br>
-I, [Matt Sehgal](https://github.com/mattsehgal), am responsible for the modified algorithm and its implementation. [August Soderberg](https://github.com/augustsoderberg) is responsible for deriving the original PARL into a functioning version, writing the data pre-processing, and performing all tests.
-<br><br><br>
+I, [Matt Sehgal](https://github.com/mattsehgal), am responsible for the modified algorithm and its implementation. [August Soderberg](https://github.com/augustsoderberg) is responsible for writing the data preprocessing and performing the evaluations.
+<br><br>
 ***
-The README below is from the original project submission:
+###### The README below is from the original project submission:
 
-## COSI 150 Final Project
+# COSI 150 Final Project
 August Soderberg and Matt Sehgal
 
 This is a modified implementation of the model proposed in the PARL paper (https://dl.acm.org/doi/10.1145/3269206.3271695) 
