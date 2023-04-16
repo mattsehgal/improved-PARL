@@ -1,7 +1,7 @@
 # Improved PARL
 
 This final project is an improvement on the algorithm of [PARL](https://github.com/WHUIR/PARL). Refer [here](https://github.com/mattsehgal/improved-PARL/blob/main/Images/modified_algo.PNG) for the algorithm modifictation and refer [here](https://github.com/mattsehgal/improved-PARL/blob/main/Images/parl_ep0-15.PNG) for our results comparison (both of these images are located [here](https://github.com/mattsehgal/improved-PARL/blob/main/Images)).
-All modifications to the original PARL can be found in [data_processing.py](https://github.com/mattsehgal/improved-PARL/blob/main/data_processing.py). Though we our code could be cleaner and more streamlined, we are thoroughly satisfied with our success of surpassing a very successful algorithm within a short time frame.
+All modifications to the original PARL can be found in [data_processing.py](https://github.com/mattsehgal/improved-PARL/blob/main/data_processing.py). Though we believe our code could be cleaner and more streamlined, we are thoroughly satisfied with our success of surpassing a very successful algorithm within a short time frame.
 
 **Statement of Work:**
 <br>
